@@ -1,0 +1,129 @@
+date,product,category,price,quantity,customer_region,payment_method,customer_age,review_score
+2023-01-05,Laptop,Electronics,899.99,1,North,Credit Card,34,4.5
+2023-01-06,T-shirt,Clothing,19.99,3,South,PayPal,27,3.8
+2023-01-07,Coffee Maker,Home,49.95,1,West,Credit Card,42,4.2
+2023-01-08,Headphones,Electronics,79.99,2,East,Debit Card,19,4.7
+2023-01-10,Sneakers,Footwear,89.50,1,North,Credit Card,31,4.0
+2023-01-12,Backpack,Accessories,45.00,1,South,PayPal,22,4.3
+2023-01-15,Blender,Home,59.99,1,West,Credit Card,38,3.9
+2023-01-18,Mouse,Electronics,24.99,2,East,PayPal,26,4.6
+2023-01-20,Sweater,Clothing,39.95,1,North,Credit Card,45,4.1
+2023-01-22,Water Bottle,Accessories,15.99,3,South,Debit Card,29,4.4
+2023-01-25,Tablet,Electronics,299.99,1,West,Credit Card,33,4.8
+2023-01-28,Jeans,Clothing,59.95,1,East,PayPal,24,3.7
+2023-02-01,Keyboard,Electronics,49.99,1,North,Credit Card,37,4.5
+2023-02-03,Toaster,Home,34.95,1,South,Debit Card,41,4.0
+2023-02-05,Earbuds,Electronics,129.99,1,West,Credit Card,28,4.9
+2023-02-08,Lamp,Home,29.99,2,East,PayPal,52,3.6
+2023-02-10,Sunglasses,Accessories,79.95,1,North,Credit Card,35,4.2
+2023-02-12,Protein Powder,Health,29.99,2,South,PayPal,26,4.4
+2023-02-15,Monitor,Electronics,199.99,1,West,Credit Card,32,4.7
+2023-02-18,Yoga Mat,Sports,24.95,1,East,Debit Card,29,4.3
+2023-02-20,Smart Watch,Electronics,159.99,1,North,Credit Card,40,4.6
+2023-02-22,Dress Shirt,Clothing,45.95,2,South,PayPal,38,3.9
+2023-02-25,Blender,Home,59.99,1,West,Credit Card,44,4.1
+2023-02-28,Gaming Mouse,Electronics,59.99,1,East,Debit Card,21,4.8
+2023-03-01,Running Shoes,Footwear,119.95,1,North,Credit Card,33,4.4
+2023-03-03,Tote Bag,Accessories,35.00,1,South,PayPal,29,4.2
+2023-03-05,Coffee Maker,Home,49.95,2,West,Credit Card,51,4.0
+2023-03-08,Wireless Charger,Electronics,29.99,3,East,PayPal,27,4.3
+2023-03-10,Sweatpants,Clothing,29.99,1,North,Credit Card,23,3.8
+2023-03-12,Water Bottle,Accessories,15.99,2,South,Debit Card,36,4.1
+2023-03-15,Smartphone,Electronics,699.99,1,West,Credit Card,29,4.7
+2023-03-18,Hoodie,Clothing,49.95,1,East,PayPal,25,4.0
+2023-03-20,Air Fryer,Home,89.99,1,North,Credit Card,41,4.5
+2023-03-22,Bluetooth Speaker,Electronics,69.99,1,South,Debit Card,32,4.2
+2023-03-25,Leggings,Clothing,34.95,2,West,PayPal,28,3.9
+2023-03-28,Desk Lamp,Home,39.99,1,East,Credit Card,47,4.1
+2023-04-01,External Hard Drive,Electronics,89.99,1,North,Credit Card,36,4.6
+2023-04-03,Baseball Cap,Accessories,24.99,1,South,PayPal,22,4.0
+2023-04-05,Protein Bars,Health,19.99,3,West,Credit Card,31,3.7
+2023-04-08,Yoga Block,Sports,12.99,2,East,Debit Card,35,4.3
+2023-04-10,Printer,Electronics,149.99,1,North,Credit Card,43,3.8
+2023-04-12,Shorts,Clothing,29.95,1,South,PayPal,26,4.1
+2023-04-15,Kitchen Scale,Home,24.99,1,West,Credit Card,39,4.4
+2023-04-18,Powerbank,Electronics,49.99,1,East,Debit Card,30,4.5
+2023-04-20,Sandals,Footwear,39.95,1,North,Credit Card,38,3.9
+2023-04-22,Sunscreen,Health,15.99,2,South,PayPal,44,4.2
+2023-04-25,Webcam,Electronics,59.99,1,West,Credit Card,27,4.7
+2023-04-28,Dress,Clothing,79.95,1,East,Debit Card,31,4.3
+2023-05-01,Vacuum Cleaner,Home,129.99,1,North,Credit Card,45,4.1
+2023-05-03,Screen Protector,Electronics,9.99,3,South,PayPal,24,3.6
+2023-05-05,Windbreaker,Clothing,59.95,1,West,Credit Card,29,4.0
+2023-05-08,Kettlebell,Sports,34.99,1,East,Debit Card,32,4.5
+2023-05-10,Tablet,Electronics,299.99,1,North,Credit Card,36,4.8
+2023-05-12,Wallet,Accessories,49.99,1,South,PayPal,41,4.2
+2023-05-15,Slow Cooker,Home,59.99,1,West,Credit Card,48,4.4
+2023-05-18,Wireless Mouse,Electronics,29.99,1,East,Debit Card,26,4.3
+2023-05-20,Polo Shirt,Clothing,34.95,2,North,Credit Card,37,3.9
+2023-05-22,Fitness Tracker,Electronics,79.99,1,South,PayPal,28,4.6
+2023-05-25,Vitamins,Health,24.99,1,West,Credit Card,52,3.8
+2023-05-28,Desk Chair,Home,149.99,1,East,Credit Card,33,4.2
+2023-06-01,Headphones,Electronics,79.99,1,North,Credit Card,24,4.7
+2023-06-03,Swimsuit,Clothing,39.95,1,South,Debit Card,30,4.0
+2023-06-05,Toaster Oven,Home,79.99,1,West,PayPal,44,4.3
+2023-06-08,USB Cable,Electronics,12.99,3,East,Credit Card,29,3.9
+2023-06-10,Athletic Shoes,Footwear,99.95,1,North,Credit Card,35,4.4
+2023-06-12,Sunglasses,Accessories,79.95,1,South,PayPal,26,4.1
+2023-06-15,Portable Fan,Home,19.99,2,West,Debit Card,39,3.7
+2023-06-18,Smartwatch,Electronics,159.99,1,East,Credit Card,31,4.6
+2023-06-20,Formal Pants,Clothing,59.95,1,North,PayPal,42,4.0
+2023-06-22,Dumbbells,Sports,44.99,1,South,Credit Card,28,4.5
+2023-06-25,Electric Kettle,Home,39.99,1,West,Debit Card,46,4.2
+2023-06-28,Wireless Earbuds,Electronics,129.99,1,East,Credit Card,23,4.8
+2023-07-01,Backpack,Accessories,45.00,1,North,PayPal,21,4.4
+2023-07-03,Skincare Set,Health,59.99,1,South,Credit Card,32,4.3
+2023-07-05,Laptop,Electronics,899.99,1,West,Credit Card,38,4.5
+2023-07-08,Tank Top,Clothing,19.99,2,East,Debit Card,25,3.8
+2023-07-10,Food Processor,Home,89.99,1,North,Credit Card,40,4.2
+2023-07-12,TV Soundbar,Electronics,199.99,1,South,PayPal,37,4.7
+2023-07-15,Hiking Boots,Footwear,119.95,1,West,Credit Card,29,4.1
+2023-07-18,Insulated Water Bottle,Accessories,24.99,1,East,Debit Card,33,4.4
+2023-07-20,Security Camera,Electronics,129.99,1,North,Credit Card,45,4.6
+2023-07-22,Pajamas,Clothing,39.95,1,South,PayPal,51,3.9
+2023-07-25,Microwave,Home,119.99,1,West,Credit Card,36,4.3
+2023-07-28,Phone Case,Accessories,19.99,2,East,Debit Card,24,4.0
+2023-08-01,Protein Powder,Health,29.99,1,North,Credit Card,27,4.2
+2023-08-03,Jump Rope,Sports,14.99,1,South,PayPal,32,4.5
+2023-08-05,Bluetooth Headphones,Electronics,99.99,1,West,Credit Card,29,4.8
+2023-08-08,Beach Towel,Home,29.99,1,East,Debit Card,34,4.1
+2023-08-10,Dress Shoes,Footwear,89.95,1,North,Credit Card,41,4.3
+2023-08-12,Graphic T-shirt,Clothing,24.99,2,South,PayPal,23,4.0
+2023-08-15,Digital Camera,Electronics,349.99,1,West,Credit Card,30,4.7
+2023-08-18,Cutting Board,Home,29.99,1,East,Debit Card,38,4.2
+2023-08-20,Rain Jacket,Clothing,69.95,1,North,Credit Card,42,4.4
+2023-08-22,Gaming Headset,Electronics,79.99,1,South,PayPal,19,4.9
+2023-08-25,Water Filter,Home,39.99,1,West,Credit Card,47,4.0
+2023-08-28,Tennis Racket,Sports,129.99,1,East,Debit Card,26,4.6
+2023-09-01,Desk Organizer,Accessories,24.99,1,North,Credit Card,35,4.2
+2023-09-03,LED Light Bulbs,Home,15.99,4,South,PayPal,43,3.9
+2023-09-05,Wireless Keyboard,Electronics,49.99,1,West,Credit Card,31,4.5
+2023-09-08,Scarf,Clothing,29.95,1,East,Debit Card,37,4.1
+2023-09-10,Foam Roller,Sports,19.99,1,North,Credit Card,28,4.3
+2023-09-12,Multivitamins,Health,19.99,2,South,PayPal,50,3.8
+2023-09-15,Smart Thermostat,Electronics,149.99,1,West,Credit Card,39,4.7
+2023-09-18,Bath Towels,Home,34.99,2,East,Debit Card,32,4.2
+2023-09-20,Winter Coat,Clothing,129.95,1,North,Credit Card,44,4.4
+2023-09-22,Portable Speaker,Electronics,69.99,1,South,PayPal,25,4.6
+2023-09-25,Travel Mug,Accessories,19.99,1,West,Credit Card,30,4.1
+2023-09-28,Hand Mixer,Home,29.99,1,East,Debit Card,46,4.0
+2023-10-01,Headlamp,Sports,24.99,1,North,Credit Card,29,4.5
+2023-10-03,Protein Bars,Health,19.99,2,South,PayPal,33,4.2
+2023-10-05,Power Strip,Electronics,24.99,1,West,Credit Card,37,3.9
+2023-10-08,Candle Set,Home,39.99,1,East,Debit Card,41,4.3
+2023-10-10,Sneakers,Footwear,89.50,1,North,Credit Card,26,4.7
+2023-10-12,Sweater,Clothing,39.95,1,South,PayPal,34,4.1
+2023-10-15,Tablet Stand,Electronics,19.99,1,West,Credit Card,28,4.4
+2023-10-18,Knife Set,Home,99.99,1,East,Debit Card,40,4.6
+2023-10-20,Gloves,Accessories,29.95,1,North,Credit Card,45,4.0
+2023-10-22,Yoga Mat,Sports,24.95,1,South,PayPal,32,4.3
+2023-10-25,E-reader,Electronics,129.99,1,West,Credit Card,37,4.8
+2023-10-28,Curtains,Home,49.99,1,East,Debit Card,53,3.9
+2023-11-01,Earbuds,Electronics,129.99,1,North,Credit Card,22,4.7
+2023-11-03,Hat,Accessories,24.99,1,South,PayPal,29,4.1
+2023-11-05,Hand Weights,Sports,19.99,2,West,Credit Card,31,4.4
+2023-11-08,Flannel Shirt,Clothing,39.95,1,East,Debit Card,36,4.2
+2023-11-10,Smart Bulbs,Electronics,39.99,2,North,Credit Card,43,4.5
+2023-11-12,Throw Blanket,Home,49.99,1,South,PayPal,47,4.3
+2023-11-15,Winter Boots,Footwear,119.95,1,West,Credit Card,35,4.6
+2023-11

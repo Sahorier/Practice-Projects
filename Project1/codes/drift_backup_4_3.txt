@@ -1,0 +1,48 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv('C:/Users/HP/OneDrive/Desktop/Practice Projects/Project1/resources/sales_data.csv', index_col=0)
+df['total spend'] = df['price'] * df['quantity']  # Adding Total Spend Column in the Dataframe
+
+# print(df)
+# print(df.iloc[0, :])
+
+''' Accessing The age of Electronics Customers'''
+
+electronics_cus = df[df['category'] == 'Electronics']
+elec_teenage = electronics_cus[((electronics_cus['customer_age'] <= 19) & (electronics_cus['customer_age'] <= 19))] 
+# print(elec_teenage)
+
+ages = list(electronics_cus['customer_age'])
+price = list(electronics_cus['price'])
+
+# plt.scatter(ages, price)
+# plt.show()
+
+
+
+elec_teen_dict = {"age" : "total_spend"}
+
+for index, i in enumerate(list(electronics_cus['customer_age'])):
+    if str(i) in elec_teen_dict.keys():
+        updated_value = elec_teen_dict[str(i)] + electronics_cus.iloc[index, 8]
+        update = {str(i) : updated_value.round(2)}
+        elec_teen_dict.update(update)
+    else:
+        elec_teen_dict[str(i)] = electronics_cus.iloc[index, 8]
+    # print(index)
+    
+# print(elec_teen_dict)
+elec_single_age = list(set(electronics_cus['customer_age']))
+elec_sorted_spend = list()
+for i in elec_single_age:
+    value = elec_teen_dict[str(i)]
+    # print(i ,value)
+    elec_sorted_spend.append(value)
+# print(elec_sorted_spend)
+    
+# elec_spend_df = pd.DataFrame(elec_single_age, elec_sorted_spend)
+# print(elec_spend_df)
+
+plt.plot(elec_single_age,elec_sorted_spend)
+plt.show()
