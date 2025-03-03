@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('C:/Users/HP/OneDrive/Desktop/Practice Projects/Project1/resources/sales_data.csv', index_col=0)
+df = pd.read_csv('sales_data.csv', index_col=0)
 df['total spend'] = df['price'] * df['quantity']  # Adding Total Spend Column in the Dataframe
 
 ''' Accessing The Electronics Customers'''
