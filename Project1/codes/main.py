@@ -23,6 +23,9 @@ elec_sorted_spend = list()
 for i in elec_single_age:  # using for loop to sort the spends as same as the ages for accurate plot
     value = elec_cus_dict[str(i)]
     elec_sorted_spend.append(value)
-
+    
+plt.title("The Plot shows The ages of the customer and their spends \nin Electronics products in a online shop")
+plt.xlabel("Ages of the Customers(years)")
+plt.ylabel("Amount of Money(USD)")
 plt.plot(elec_single_age,elec_sorted_spend) # creating a plot that shows the ages and their spends
 plt.show()
